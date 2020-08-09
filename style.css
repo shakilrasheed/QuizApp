@@ -1,0 +1,43 @@
+.active{
+
+background-color:yellow;
+
+}
+
+
+
+.optionElement{
+
+
+
+}
+
+
+.b {
+
+border-radius: 8px;
+
+
+}
+
+
+.c  {
+
+display: none    ;
+
+}
+
+.desc {
+
+    font-size:larger;
+    background-color: black;
+    color:white;
+    display: inline;
+
+}
+
+.visible {
+
+display: inline-block;
+
+}
